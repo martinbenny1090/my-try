@@ -1,1 +1,6 @@
 save me
+
+add me
+
+
+git stash push -m "message"
