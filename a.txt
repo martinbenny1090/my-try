@@ -1,4 +1,6 @@
 branch my
 
+my merge hai
+
 my merge hello
 
